@@ -1,4 +1,4 @@
-# BrightTech Solutions - Sales Dashboard # Salesforce DX Project: Next Steps
+# BrightTech Solutions - Sales Dashboard Salesforce DX Project: Next Steps
 
 
 

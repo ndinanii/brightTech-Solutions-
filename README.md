@@ -1,4 +1,4 @@
-# BrightTech Solutions - Sales Dashboard# Salesforce DX Project: Next Steps
+# BrightTech Solutions - Sales Dashboard # Salesforce DX Project: Next Steps
 
 
 
@@ -14,7 +14,7 @@ Sales managers need a centralized dashboard to monitor sales performance, track 
 
 
 
-## Learning Objectives## Configure Your Salesforce DX Project
+## Learning Objectives ## Configure Your Salesforce DX Project
 
 
 
